@@ -14,7 +14,14 @@
       "expires": "2027-07-19",
       "active": true,
       "user": "arias"
+    },
+    {
+      "key": "624PK-78PON-8IIBB-MBQRR",
+      "hwid": "3c914cc5b8987a6d",
+      "expires": "2026-08-18",
+      "active": true,
+      "user": "wimrri"
     }
   ],
-  "checksum": "b1256cef38e6b705b381c12f801be295e8f1b78c3ccd6a3694d2a495649aaf74"
+  "checksum": "cf7e0ba2c062c89276d0b9cf987a425283835f611c457750b98273b5e176cc43"
 }
