@@ -7,7 +7,14 @@
       "expires": "2026-08-18",
       "active": false,
       "user": "test_user"
+    },
+    {
+      "key": "BL7A2-7UYIT-SGHQO-EM6N9",
+      "hwid": "3c914cc5b8987a6d",
+      "expires": "2027-07-19",
+      "active": true,
+      "user": "arias"
     }
   ],
-  "checksum": "bd28aecb6391776658d396670b0fd0699715ebc245def087cd8ef66511b1dc0a"
+  "checksum": "b1256cef38e6b705b381c12f801be295e8f1b78c3ccd6a3694d2a495649aaf74"
 }
