@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "licenses": [
+    {
+      "key": "RWUKP-WH5S6-N730T-RGNJM",
+      "hwid": "3c914cc5b8987a6d",
+      "expires": "2026-08-18",
+      "active": true,
+      "user": "test_user"
+    }
+  ],
+  "checksum": "7631d6874cb934acd20e3101a28899ca59b00b681875a14e0e5e581f3891a77f"
+}
