@@ -21,7 +21,14 @@
       "expires": "2026-08-18",
       "active": true,
       "user": "wimrri"
+    },
+    {
+      "key": "FK55I-RBQ1E-3RZB7-X2KZY",
+      "hwid": "3c914cc5b8987a6d",
+      "expires": "2027-07-21",
+      "active": true,
+      "user": "wimrri"
     }
   ],
-  "checksum": "cf7e0ba2c062c89276d0b9cf987a425283835f611c457750b98273b5e176cc43"
+  "checksum": "b453e4023ad98631d5bfc07cd3924499b0946b5a7ddd3408845e072ed82f00fc"
 }
